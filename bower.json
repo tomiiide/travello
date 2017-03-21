@@ -1,0 +1,10 @@
+{
+    "name": "travello",
+    "private": true,
+    "dependencies": {
+        "modernizr": "~2.8.1",
+        "normalize-scss": "^3.0.3",
+        "scrollreveal": "^3.3.4",
+        "font-awesome": "^4.7.0"
+    }
+}
